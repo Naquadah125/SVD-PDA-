@@ -17,11 +17,11 @@ Dự án môn học Python: Ứng dụng web phân tích, nén và tái tạo �
   python app.py
 Truy cập đường dẫn: http://127.0.0.1:8050/ trên trình duyệt.
 
-Tuấn Anh
-    * [ ] Nghiên cứu lý thuyết Toán (Ma trận, Eigenvalues) cho báo cáo.
-    * [ ] Chụp hình biểu đồ so sánh hiệu năng giữa PCA và SVD.
-    * [ ] Viết báo cáo chương Kết quả thực nghiệm.
-Khánh: 
-    * [ ] Thiết kế CSS/Layout cho giao diện Web đẹp hơn.
-    * [ ] Kiểm tra lỗi khi upload file không phải ảnh.
-    * [ ] Quay video demo sản phẩm.
+Tuấn Anh  
+    * [ ] Nghiên cứu lý thuyết Toán (Ma trận, Eigenvalues) cho báo cáo.  
+    * [ ] Chụp hình biểu đồ so sánh hiệu năng giữa PCA và SVD.  
+    * [ ] Viết báo cáo chương Kết quả thực nghiệm.  
+Khánh:  
+    * [ ] Thiết kế CSS/Layout cho giao diện Web đẹp hơn.  
+    * [ ] Kiểm tra lỗi khi upload file không phải ảnh.  
+    * [ ] Quay video demo sản phẩm.  
