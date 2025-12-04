@@ -6,16 +6,16 @@ Dự án môn học Python: Ứng dụng web phân tích, nén và tái tạo �
 * **Python**: Phiên bản **3.12**.
 
 ## Hướng dẫn cài đặt
-1. Clone repo:
-  bash
-  git clone <link>
-2. Tạo môi trường ảo:
-  python -m venv venv
-  venv\Scripts\activate
-3. Cài thư viện và chạy ứng dụng:
-  pip install -r requirements.txt
-  python app.py
-Truy cập đường dẫn: http://127.0.0.1:8050/ trên trình duyệt.
+1. Clone repo:  
+  bash  
+  git clone <link>  
+2. Tạo môi trường ảo:  
+  python -m venv venv  
+  venv\Scripts\activate  
+3. Cài thư viện và chạy ứng dụng:  
+  pip install -r requirements.txt  
+  python app.py  
+Truy cập đường dẫn: http://127.0.0.1:8050/ trên trình duyệt.  
 
 Tuấn Anh  
     * [ ] Nghiên cứu lý thuyết Toán (Ma trận, Eigenvalues) cho báo cáo.  
